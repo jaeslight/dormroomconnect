@@ -1,0 +1,9 @@
+{
+  "name": "Dorm Room Connect 🇳🇬",
+  "description": "A next-generation social network for Nigerian students designed for connectivity even with low data or no WiFi. Stay connected with your campus community offline or online.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
